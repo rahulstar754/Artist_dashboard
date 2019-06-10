@@ -3,7 +3,7 @@
 ## Run command
 Following command to run project 
 
-'''$
-php artisan serve
-'''
+```bash
+$ php artisan serve
+```
 
